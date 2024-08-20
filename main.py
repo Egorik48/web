@@ -8,8 +8,8 @@ from telebot import types
 
 from main_two import rate_us_dollar
 
-bot = telebot.TeleBot('6675946515:AAEr3ILWaVU3tRjlVSErphh7wuCmqZ8slcU')
-TOKEN = '6675946515:AAEr3ILWaVU3tRjlVSErphh7wuCmqZ8slcU'
+bot = telebot.TeleBot('TOKEN')
+TOKEN = 'TOKEN'
 
 
 def speech():
